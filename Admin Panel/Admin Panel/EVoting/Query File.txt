@@ -1,0 +1,21 @@
+Database Name:evoting
+
+CREATE table admin_login
+(email varchar(20),password varchar(20));
+INSERT into admin_login values('admin','admin');
+
+
+CREATE table candidate_details
+(id int AUTO_INCREMENT,Name varchar(20),Email varchar(20),Class varchar(20),Division varchar(20),Position varchar(20),PRIMARY KEY(id));
+
+CREATE table position_details
+((id int AUTO_INCREMENT,Position varchar(20),PRIMARY KEY(id));
+
+CREATE table User_Details
+(id int AUTO_INCREMENT,Name varchar(20),Email varchar(20),Contact int(10),Address varchar(20),Class varchar(20),Division varchar(20),Status varchar(20),PRIMARY KEY(id));
+
+CREATE table forum_details
+((id int AUTO_INCREMENT,Question varchar(20),PRIMARY KEY(id));
+
+CREATE table result
+(UserID int(20),Position varchar(20),Date varchar(20),CandidateID int(20));

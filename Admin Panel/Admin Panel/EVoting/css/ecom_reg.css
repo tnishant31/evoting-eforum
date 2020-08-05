@@ -1,0 +1,20 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+
+#img_center{
+margin-top:3%;
+}
+
+.dot{
+color:red;
+}
+
+.header{
+margin-top:7%;
+margin-left:35%;
+color:blue;
+font-size:36px;
+}

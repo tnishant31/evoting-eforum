@@ -1,0 +1,5 @@
+C:\Users\Nikul\AndroidStudioProjects\AndroidVoting\app\build\intermediates\classes\debug
+C:\Users\Nikul\AndroidStudioProjects\AndroidVoting\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-fb254f066804711222ae7d3b3df59cf45130cafb.jar
+C:\Users\Nikul\AndroidStudioProjects\AndroidVoting\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-df4425cc0105f9a9ad52063080321c5a6b9ad2c2.jar
+C:\Users\Nikul\AndroidStudioProjects\AndroidVoting\app\build\intermediates\pre-dexed\debug\classes-1d11ab70a0cc6aaafa7f1d69a5d6df2d1bd1b712.jar
+C:\Users\Nikul\AndroidStudioProjects\AndroidVoting\app\build\intermediates\pre-dexed\debug\classes-c3f9477bef3389c8241d329815ed5af69930b4e1.jar

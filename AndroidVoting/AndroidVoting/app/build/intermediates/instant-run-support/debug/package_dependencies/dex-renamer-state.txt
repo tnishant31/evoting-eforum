@@ -1,0 +1,13 @@
+#Tue Aug 22 12:23:27 IST 2017
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_66b861e9735dedd5877a9ed2d0162fe6310b23b7
+base.2=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f0d88b7006e32c4fd4d4c24534a9a7cf9f8641d0
+base.1=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_3eb5d36a26d8955ce1fed04ac774b75a15695e53
+base.0=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4ee0f8f3f3ba1fb806cde9f3d64a637c22bf4b3d
+file.3=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_66b861e9735dedd5877a9ed2d0162fe6310b23b7\\classes.dex
+file.2=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f0d88b7006e32c4fd4d4c24534a9a7cf9f8641d0\\classes.dex
+file.1=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_3eb5d36a26d8955ce1fed04ac774b75a15695e53\\classes.dex
+file.0=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4ee0f8f3f3ba1fb806cde9f3d64a637c22bf4b3d\\classes.dex

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/left_ll"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="fill_parent">
+    <TextView
+        android:id="@+id/list_item_wa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:text="Menu"
+        android:textColor="#ffffff"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:paddingLeft="5dp" />
+
+    <TextView
+        android:id="@+id/list_item_wa_details"
+        android:layout_below="@+id/list_item_wa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:paddingBottom="20dp"
+        android:text="Menu"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        android:paddingLeft="5dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/right_ll"
+        android:gravity="right"
+        android:layout_toRightOf="@+id/left_ll"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:id="@+id/list_item_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:text="250"
+            android:textColor="#c51162"
+            android:textSize="60sp"
+            android:textStyle="bold"
+            android:paddingLeft="5dp" />
+        </LinearLayout>
+</RelativeLayout><!-- From: file:/C:/Users/Nikul/AndroidStudioProjects/AndroidVoting/app/src/main/res/layout/list_view_wa.xml -->

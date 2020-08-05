@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center">
+
+    <TextView android:id="@+id/tv_splash1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ANDROID"
+        android:textColor="#ffffff"
+
+        android:textAllCaps="true"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="60dp"
+
+        android:gravity="center" />
+    <TextView android:id="@+id/tv_splash2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="VOTING"
+        android:textColor="#ffffff"
+
+        android:textAllCaps="true"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="60dp"
+
+        android:gravity="center" />
+
+</LinearLayout><!-- From: file:/C:/Users/Nikul/AndroidStudioProjects/AndroidVoting/app/src/main/res/layout/activity_splash_screen.xml -->

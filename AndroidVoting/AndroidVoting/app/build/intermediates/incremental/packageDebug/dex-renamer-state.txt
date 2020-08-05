@@ -1,0 +1,7 @@
+#Tue Aug 22 12:23:30 IST 2017
+base.0=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_929fa027818649e6e037c4ef93c9f16360ff9928
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_34021298c1f83c9003761d5c739c4633550e5b1c\\classes.dex
+base.1=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_34021298c1f83c9003761d5c739c4633550e5b1c
+file.0=C\:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_929fa027818649e6e037c4ef93c9f16360ff9928\\classes.dex

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_candidates_details.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_candidates_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_change_password.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_candidates.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_candidates.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_candidates.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_candidates.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_change_password.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_splash_screen.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_result_details.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_result_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_result_details.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_result_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_splash_screen.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cast_vote.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_cast_vote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cast_vote.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_cast_vote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_forum_details.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_forum_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cast_vote_details.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_cast_vote_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_forum.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_forum_details.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_forum_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_results.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cast_vote_details.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_cast_vote_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_candidates_details.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_candidates_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_forum.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_results.xml",
+        "source": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\src\\main\\res\\menu\\menu_view_results.xml"
+    }
+]

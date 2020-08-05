@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.raatechnocrates.androidvoting"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="Android Voting"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.raatechnocrates.androidvoting.MainActivity"
+            android:label="Android Voting" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.SplashScreen"
+            android:label="Android Voting" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.Register"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.ChangePassword"
+            android:label="Change Password" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.ViewCandidates"
+            android:label="@string/title_activity_view_candidates" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.CastVote"
+            android:label="@string/title_activity_cast_vote" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.ViewResults"
+            android:label="@string/title_activity_view_results" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.ViewCandidatesDetails"
+            android:label="@string/title_activity_view_candidates_details" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.CastVoteDetails"
+            android:label="@string/title_activity_cast_vote_details" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.ViewResultDetails"
+            android:label="@string/title_activity_view_result_details" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.Forum"
+            android:label="@string/title_activity_forum" >
+        </activity>
+        <activity
+            android:name="com.raatechnocrates.androidvoting.ForumDetails"
+            android:label="@string/title_activity_forum_details" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.raatechnocrates.androidvoting.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

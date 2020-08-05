@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\eefff26cb91fa1db643c18c1c721a578cd327750\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Nishant\\AndroidVoting\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nishant\\Documents\\BE Project\\AndroidVoting\\AndroidVoting\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Nishant\\.android\\build-cache\\eefff26cb91fa1db643c18c1c721a578cd327750\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

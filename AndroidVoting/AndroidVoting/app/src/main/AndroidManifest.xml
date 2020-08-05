@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.raatechnocrates.androidvoting" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="Android Voting"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="Android Voting" >
+        </activity>
+        <activity
+            android:name=".SplashScreen"
+            android:label="Android Voting" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".Register"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name=".ChangePassword"
+            android:label="Change Password" >
+        </activity>
+        <activity
+            android:name=".ViewCandidates"
+            android:label="@string/title_activity_view_candidates" >
+        </activity>
+        <activity
+            android:name=".CastVote"
+            android:label="@string/title_activity_cast_vote" >
+        </activity>
+        <activity
+            android:name=".ViewResults"
+            android:label="@string/title_activity_view_results" >
+        </activity>
+        <activity
+            android:name=".ViewCandidatesDetails"
+            android:label="@string/title_activity_view_candidates_details" >
+        </activity>
+        <activity
+            android:name=".CastVoteDetails"
+            android:label="@string/title_activity_cast_vote_details" >
+        </activity>
+        <activity
+            android:name=".ViewResultDetails"
+            android:label="@string/title_activity_view_result_details" >
+        </activity>
+        <activity
+            android:name=".Forum"
+            android:label="@string/title_activity_forum" >
+        </activity>
+        <activity
+            android:name=".ForumDetails"
+            android:label="@string/title_activity_forum_details" >
+        </activity>
+    </application>
+
+</manifest>
